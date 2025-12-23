@@ -1,0 +1,17 @@
+# build artifacts
+build/
+out/
+dist/
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+
+# debug / tooling
+*.log
+*.tmp
+.cache/
+.vscode/
+.idea/
+.DS_Store
